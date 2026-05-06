@@ -1,4 +1,4 @@
-# 📈 Stock Simulator Pro
+#  Stock Simulator 
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
 
 Stock Simulator Pro is a modern virtual stock market simulator built using pure HTML, CSS, and JavaScript.
