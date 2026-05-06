@@ -56,8 +56,8 @@ stock-simulator-pro/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/njansanjay/stock-simulator-pro.git
-cd stock-simulator-pro
+git clone https://github.com/njansanjay/Stock-Simulator.git
+cd Stock-Simulator
 ```
 
 ---
@@ -115,7 +115,7 @@ Available soon
 
 ## 🧑‍💻 Author
 
-Sanjay
+Sanjay.R
 
 ---
 
