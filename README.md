@@ -113,6 +113,13 @@ Available soon
 
 ---
 
+## Projext Map
+
+![Architecture Diagram](assets/architecture.png)
+
+
+---
+
 ## 🧑‍💻 Author
 
 Sanjay.R
