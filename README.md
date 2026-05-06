@@ -115,7 +115,7 @@ Available soon
 
 ## Projext Map
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](assets/diagram.png)
 
 
 ---
