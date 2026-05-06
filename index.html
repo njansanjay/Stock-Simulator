@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Stock Simulator Pro</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body class="light-mode">
+
+    <div class="navbar">
+        <h1> Stock Simulator Pro</h1>
+
+        <button id="themeBtn">🌙 Toggle Theme</button>
+    </div>
+
+    <div class="dashboard">
+
+        <div class="card">
+            <h3>Wallet Balance</h3>
+            <h2>₹<span id="balance">100000</span></h2>
+        </div>
+
+        <div class="card">
+            <h3>Total Portfolio Value</h3>
+            <h2>₹<span id="portfolioValue">0</span></h2>
+        </div>
+
+        <div class="card">
+            <h3>Total Profit/Loss</h3>
+            <h2 id="profitLoss">₹0</h2>
+        </div>
+
+    </div>
+
+    <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search Stocks...">
+    </div>
+
+    <div class="stock-container" id="stockContainer"></div>
+
+    <div class="portfolio-section">
+         <div class="portfolio-header"></div>
+
+        <h2>💼 Portfolio</h2>
+
+                <div class="mini-chart-container">
+            <canvas id="marketChart"></canvas>
+        </div>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Stock</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+
+            <tbody id="portfolioList"></tbody>
+        </table>
+
+    </div>
+
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

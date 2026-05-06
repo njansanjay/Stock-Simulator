@@ -1,0 +1,26 @@
+[
+    {
+        "name": "TCS",
+        "price": 3500
+    },
+    {
+        "name": "Infosys",
+        "price": 1450
+    },
+    {
+        "name": "Reliance",
+        "price": 2800
+    },
+    {
+        "name": "HDFC Bank",
+        "price": 1650
+    },
+    {
+        "name": "Wipro",
+        "price": 520
+    },
+    {
+        "name": "Adani Power",
+        "price": 780
+    }
+]
