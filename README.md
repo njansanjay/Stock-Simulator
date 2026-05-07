@@ -37,7 +37,7 @@ It simulates a real-time trading environment where users can buy and sell stocks
 ## 📁 Project Structure
 
 ```bash
-stock-simulator-pro/
+Stock-Simulator/
 │
 ├── index.html
 ├── style.css
@@ -45,8 +45,10 @@ stock-simulator-pro/
 ├── stocks.json
 │
 ├── assets/
-│   ├── preview.png
-│   ├── architecture.png
+│   ├── diagram.png
+├── docs/
+    ├──  abstract.docx
+
 ```
 
 ---
