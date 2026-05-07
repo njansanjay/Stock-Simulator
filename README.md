@@ -17,6 +17,7 @@ It simulates a real-time trading environment where users can buy and sell stocks
 * 🔍 Stock search functionality
 * 💾 LocalStorage data persistence
 * 🎨 Modern minimal fintech UI
+* 💸 Fake money trading environment
 
 ---
 

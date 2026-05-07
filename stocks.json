@@ -22,5 +22,21 @@
     {
         "name": "Adani Power",
         "price": 780
+    },
+    {
+        "name": "ICICI Bank",
+        "price": 1180
+    },
+    {
+        "name": "Tata Motors",
+        "price": 980
+    },
+    {
+        "name": "Bharti Airtel",
+        "price": 1420
+    },
+    {
+        "name": "Asian Paints",
+        "price": 3050
     }
 ]
