@@ -38,5 +38,13 @@
     {
         "name": "Asian Paints",
         "price": 3050
+    },
+    {
+        "name": "State Bank of India",
+        "price": 1019
+    },
+    {
+        "name": "Apollo Hospital",
+        "price": 8097
     }
 ]
